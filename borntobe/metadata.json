@@ -1,0 +1,6 @@
+{
+  "name": "Borntobe",
+  "description": "Простой интернет-магазин одежды Borntobe",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["app"]
+}
